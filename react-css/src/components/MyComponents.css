@@ -1,0 +1,9 @@
+/*todo css que estiver aqui estará no componete do MyComponents.js*/
+p{
+    color: #fff;
+    background-color: #000;
+}
+.my-comp-paragraph{
+    background-color: #000;
+    color: gold;
+}
