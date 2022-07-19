@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(230, 228, 228);
+}
+form{
+    background-color: rgba(246, 246, 246, 0.452);
+    padding: 25px;
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+input, textarea, select{
+    border: none;
+    margin-left: 10px;
+    border-radius: 2px;
+    padding: 5px;
+    margin-top: 15px;
+}
+.btn{
+    color: rgb(41, 40, 40);
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid rgb(175, 172, 172);
+    font-size: 0.9rem;
+}
+.btn:hover{
+    color: rgb(99, 96, 96);
+}
